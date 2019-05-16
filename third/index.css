@@ -1,0 +1,40 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.normal {
+    height: auto;
+    width: 100%;
+    min-height: 150px;
+}
+
+.medium {
+    height: auto;
+    width: 100%;
+    min-height: 300px;
+}
+
+.grey {
+    background-color: #d8d8d8;
+}
+
+.blue {
+    background-color: #4a90e2;
+}
+
+.green {
+    background-color: #50e3c2;
+}
+
+.grass {
+    background-color: #b7e885;
+}
+
+.yellow {
+    background-color: #f8e71d;
+}
+
+.white {
+    background-color: #ffffff;
+}
